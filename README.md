@@ -54,7 +54,18 @@ pip install matplotlib
 
 Remember to install MikTeX on your computer for everything to function properly.
 
+# CODE PYTHON RUN WITH LOCAL COORDINATES
+
 [![Video Demo](https://img.youtube.com/vi/kgRFjQyUP84/0.jpg)](https://www.youtube.com/watch?v=kgRFjQyUP84)
+
+# FUTURE UPDATES
+In future versions of the application, the following features are planned to enhance functionality and expand its reach:
+
+- Real-time data acquisition: The application will integrate more accurate and real-time data on vegetation and humidity using advanced satellite sources. This will allow for more effective crop management and improve the accuracy of automatic irrigation and drainage recommendations.
+
+- Connection to a global server: To facilitate scalability and avoid limitations with the application's global growth, we will connect the app to a centralized server. This will allow large volumes of data to be stored and provide efficient access to all users, regardless of their geographic location.
+
+- Real-time data updates: Vegetation, humidity, and other important variables will be automatically updated in all applications connected to the server, ensuring that farmers can access up-to-date information at all times. This feature will enable faster and more accurate decision-making, continuously optimizing resources.
 
 
 
