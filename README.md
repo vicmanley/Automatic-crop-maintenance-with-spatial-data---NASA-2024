@@ -54,8 +54,7 @@ pip install matplotlib
 
 Remember to install MikTeX on your computer for everything to function properly.
 
-[![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://youtu.be/NarBox1LkYc)
-
+[![Video Demo](https://img.youtube.com/vi/kgRFjQyUP84/0.jpg)](https://www.youtube.com/watch?v=kgRFjQyUP84)
 
 
 
