@@ -67,5 +67,11 @@ In future versions of the application, the following features are planned to enh
 
 - Real-time data updates: Vegetation, humidity, and other important variables will be automatically updated in all applications connected to the server, ensuring that farmers can access up-to-date information at all times. This feature will enable faster and more accurate decision-making, continuously optimizing resources.
 
+- Research on water footprint: We will explore the water footprint as a key factor in the responsible management of water in agriculture. The water footprint measures the volume of water consumed at all stages of crop production. By integrating this data into the system, we will be able to optimize water use and help farmers reduce their consumption, promoting more sustainable agricultural practices.
+
+- Responsible water use: We will implement advanced strategies to promote efficient water use in irrigation systems, considering both water footprint data and weather conditions. This will allow farmers to use only the necessary amount of water, minimizing waste and maximizing the efficiency of water resources.
+
+- Customized adjustments for different types of crops: A future version of the system will include the ability to make specific adjustments for different types of crops. This will involve customizing irrigation, fertilization, and drainage parameters according to the particular needs of each crop, allowing for more precise and efficient resource management in each case.
+
 
 
